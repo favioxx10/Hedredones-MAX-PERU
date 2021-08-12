@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<!-- saved from url=(0050)file:///C:/Users/Usuario/Desktop/tienda/index.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <link href="./index_files/css2" rel="stylesheet">
+    <link rel="stylesheet" href="./index_files/styles.css">
+    <script src="./index_files/scripts.js.descarga"></script>
+</head>
+<body>
+    <div class="page-nav">
+        <h1>Edredones MAX PERU</h1>
+        <button class="button-checkout">CONTACTOS:999999999</button>
+    </div>
+    <div class="page-content">
+        <div class="product-container">
+            <h3>Edredon  </h3>
+            <img src="./index_files/product-1.jpg">
+            <h1>S/50</h1>
+            <button class="button-add" onclick="add(&#39;product-1&#39;, 50)">Ver</button>     
+        </div>
+
+        <div class="product-container">
+            <h3>Edredon </h3>
+            <img src="./index_files/product-2.jpg">
+            <h1>S/20</h1>
+            <button class="button-add" onclick="add(&#39;product-1&#39;, 20)">Ver</button>      
+        </div>
+        
+        <div class="product-container">
+            <h3>Edredon </h3>
+            <img src="./index_files/product-3.jpg">
+            <h1>S/30</h1>
+            <button class="button-add" onclick="add(&#39;product-1&#39;, 30)">Ver</button>      
+        </div>
+
+        <div class="product-container">
+            <h3>Edredon </h3>
+            <img src="./index_files/product-4.jpg">
+            <h1>S/40</h1>
+            <button class="button-add" onclick="add(&#39;product-4&#39;, 40)">Ver</button>      
+        </div>
+
+        <div class="product-container">
+            <h3>Edredon </h3>
+            <img src="./index_files/product-5.jpg">
+            <h1>S/100</h1>
+            <button class="button-add" onclick="add(&#39;product-5&#39;, 50)">Ver</button>      
+        </div>
+
+        <div class="product-container">
+            <h3>Edredon </h3>
+            <img src="./index_files/product-6.jpg">
+            <h1>S/60</h1>
+            <button class="button-add" onclick="add(&#39;product-6&#39;, 60)">Ver</button>      
+        </div>
+    </div>
+    <div class="page-nav">
+        <h1>Edredones MAX PERU</h1>
+        <button class="button-checkout">Facebook:Edredones MAX PERU</button>
+    </div>
+</body></html>
